@@ -1,0 +1,22 @@
+p1_long_name,p2_long_name,Results_section_category,rg_p_new_fdr,new_genetics_category,ajusted_odds_p_bh,odds_strength,OR,Rg,domain
+Atrial fibrillation,Heart failure,1,<0.0001,Gen Strong ,<0.0001,Obs Strong,OR: 7.53 [7.45-7.61],Rg=0.6-SE=0.03,within domain
+Vitamin B12 deficiency anaemia,COPD,2,<0.0001,Gen Intermediate ,<0.0001,Obs Intermediate,OR: 1.57 [1.55-1.6],Rg=0.35-SE=0.06,across domain
+Coronary Heart Disease,All stroke,2,<0.0001,Gen Strong ,<0.0001,Obs Strong,OR: 2.06 [2.04-2.09],Rg=0.49-SE=0.03,within domain
+Diabetes type 2,Erectile dysfunction,2,<0.0001,Gen Strong ,<0.0001,Obs Strong ,OR: 3.27 [3.24-3.3],Rg=0.49-SE=0.05,across domain
+Erectile dysfunction,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),2,<0.0001,Gen Strong ,<0.0001,Obs Strong ,OR: 2.2 [2.16-2.23],Rg=0.49-SE=0.1,across domain
+Fibromyalgia,Asthma,2,<0.0001,Gen Intermediate ,<0.0001,Obs Intermediate ,OR: 1.87 [1.83-1.92],Rg=0.45-SE=0.06,across domain
+Fibromyalgia,Irritable bowel syndrome,2,<0.0001,Gen Strong ,<0.0001,Obs Strong ,OR: 3.38 [3.3-3.47],Rg=0.65-SE=0.13,across domain
+Iron deficiency anaemia,Peripheral arterial disease,2,<0.0001,Gen Intermediate,<0.0001,Obs Strong ,OR: 2.08 [2.04-2.12],Rg=0.45-SE=0.1,across domain
+Intervertebral disc disorders,Gastro-oesophageal reflux disease,2,<0.0001,Gen Strong ,<0.0001,Obs Intermediate,OR: 1.6 [1.58-1.62],Rg=0.5-SE=0.03,across domain
+Osteoarthritis (excl spine),Obesity,2,<0.0001,Gen Strong ,<0.0001,Obs Strong ,OR: 2 [1.99-2.01],Rg=0.54-SE=0.02,across domain
+Rheumatoid Arthritis,Polymyalgia Rheumatica,2,<0.0001,Gen Strong ,<0.0001,Obs Strong ,OR: 2.96 [2.87-3.05],Rg=0.48-SE=0.09,within domain
+Chronic sinusitis,Gastro-oesophageal reflux disease,2,<0.0001,Gen Strong ,<0.0001,Obs Strong ,OR: 2 [1.98-2.02],Rg=0.49-SE=0.06,across domain
+Tendon disorders,Diverticular disease of intestine (acute and chronic),2,<0.0001,Gen Intermediate ,<0.0001,Obs Intermediate,OR: 1.49 [1.48-1.5],Rg=0.27-SE=0.03,across domain
+Transient ischaemic attack,Peripheral arterial disease,2,<0.0001,Gen Intermediate ,<0.0001,Obs Strong ,OR: 2.3 [2.24-2.35],Rg=0.48-SE=0.08,within domain
+Enthesopathies of the upper body,"Schizophrenia, schizotypal and delusional disorders",3,<0.0001,Gen Weak,<0.0001,Obs Weak,OR: 0.53 [0.51-0.55],Rg=-0.17-SE=0.03,across domain
+Primary Malignancy_Other Skin and subcutaneous tissue,Rheumatoid Arthritis,3,<0.0001,Gen Weak ,<0.0001,Obs Weak,OR: 1.15 [1.12-1.18],Rg=-0.14-SE=0.04,across domain
+Female genital prolapse,Diabetes type 2,4,<0.0001,Gen Weak ,<0.0001,Obs Weak ,OR: 0.97 [0.96-0.98],Rg=0.13-SE=0.02,across domain
+Fibromyalgia,Polymyalgia Rheumatica,4,0.3,Not Significant,<0.0001,Obs Strong ,OR: 3.41 [3.28-3.54],Rg=0.15-SE=0.12,within domain
+Fibromyalgia,"Schizophrenia, schizotypal and delusional disorders",4,<0.0001,Gen Weak ,<0.0001,Obs Weak,OR: 0.84 [0.75-0.94],Rg=0.2-SE=0.04,across domain
+Primary Malignancy_Bladder,Abdominal aortic aneurysm,4,0.8,Not Significant,<0.0001,Obs Strong,OR: 2.23 [2.09-2.37],Rg=0.04-SE=0.12,across domain
+Primary Malignancy_Colorectal,Iron deficiency anaemia,4,0.66,Not Significant,<0.0001,Obs Strong ,OR: 2.55 [2.49-2.6],Rg=0.04-SE=0.07,across domain
